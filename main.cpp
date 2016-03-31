@@ -6,7 +6,5 @@ int main(){
 //留名
 
 //testing1234
-fskhfkdjshfkdshfkdjshfkdsjhfjkdshkjdshfjkdhfkjdfhkjhfkjdshfkjdshfjksdhfjksdhf
-fuckdjfw feoifoifhoidshewheoihiuxcsfhiiugferiugrbgweiufhhfeuwoigwfeurogreougfrerg
 
 }
